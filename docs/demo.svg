@@ -1,0 +1,194 @@
+<svg class="rich-terminal" viewBox="0 0 1141 879.5999999999999" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-33129365-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-33129365-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-33129365-r1 { fill: #a6e22e;font-weight: bold }
+.terminal-33129365-r2 { fill: #d9d9d9;font-weight: bold }
+.terminal-33129365-r3 { fill: #d9d9d9 }
+.terminal-33129365-r4 { fill: #66d9ef }
+.terminal-33129365-r5 { fill: #f92672;font-weight: bold }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-33129365-clip-terminal">
+      <rect x="0" y="0" width="1121.3999999999999" height="828.5999999999999" />
+    </clipPath>
+    <clipPath id="terminal-33129365-line-0">
+    <rect x="0" y="1.5" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-1">
+    <rect x="0" y="25.9" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-2">
+    <rect x="0" y="50.3" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-3">
+    <rect x="0" y="74.7" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-4">
+    <rect x="0" y="99.1" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-5">
+    <rect x="0" y="123.5" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-6">
+    <rect x="0" y="147.9" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-7">
+    <rect x="0" y="172.3" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-8">
+    <rect x="0" y="196.7" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-9">
+    <rect x="0" y="221.1" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-10">
+    <rect x="0" y="245.5" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-11">
+    <rect x="0" y="269.9" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-12">
+    <rect x="0" y="294.3" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-13">
+    <rect x="0" y="318.7" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-14">
+    <rect x="0" y="343.1" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-15">
+    <rect x="0" y="367.5" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-16">
+    <rect x="0" y="391.9" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-17">
+    <rect x="0" y="416.3" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-18">
+    <rect x="0" y="440.7" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-19">
+    <rect x="0" y="465.1" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-20">
+    <rect x="0" y="489.5" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-21">
+    <rect x="0" y="513.9" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-22">
+    <rect x="0" y="538.3" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-23">
+    <rect x="0" y="562.7" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-24">
+    <rect x="0" y="587.1" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-25">
+    <rect x="0" y="611.5" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-26">
+    <rect x="0" y="635.9" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-27">
+    <rect x="0" y="660.3" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-28">
+    <rect x="0" y="684.7" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-29">
+    <rect x="0" y="709.1" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-30">
+    <rect x="0" y="733.5" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-31">
+    <rect x="0" y="757.9" width="1122.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-33129365-line-32">
+    <rect x="0" y="782.3" width="1122.4" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#0c0c0c" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1139" height="877.6" rx="8"/><text class="terminal-33129365-title" fill="#d9d9d9" text-anchor="middle" x="569" y="27">rsatool</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-33129365-clip-terminal)">
+    
+    <g class="terminal-33129365-matrix">
+    <text class="terminal-33129365-r1" x="0" y="20" textLength="24.4" clip-path="url(#terminal-33129365-line-0)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="20" textLength="170.8" clip-path="url(#terminal-33129365-line-0)">rsatool&#160;keygen</text><text class="terminal-33129365-r3" x="1122.4" y="20" textLength="12.2" clip-path="url(#terminal-33129365-line-0)">
+</text><text class="terminal-33129365-r3" x="0" y="44.4" textLength="939.4" clip-path="url(#terminal-33129365-line-1)">Made&#160;a&#160;2048-bit&#160;key&#160;pair,&#160;fingerprint&#160;9212:3460:efe4:985e:7e58:004e:7f03:1a02</text><text class="terminal-33129365-r3" x="1122.4" y="44.4" textLength="12.2" clip-path="url(#terminal-33129365-line-1)">
+</text><text class="terminal-33129365-r3" x="0" y="68.8" textLength="366" clip-path="url(#terminal-33129365-line-2)">&#160;&#160;private&#160;key:&#160;private_key.pem</text><text class="terminal-33129365-r3" x="1122.4" y="68.8" textLength="12.2" clip-path="url(#terminal-33129365-line-2)">
+</text><text class="terminal-33129365-r3" x="0" y="93.2" textLength="353.8" clip-path="url(#terminal-33129365-line-3)">&#160;&#160;public&#160;key:&#160;&#160;public_key.pem</text><text class="terminal-33129365-r3" x="1122.4" y="93.2" textLength="12.2" clip-path="url(#terminal-33129365-line-3)">
+</text><text class="terminal-33129365-r3" x="0" y="117.6" textLength="1037" clip-path="url(#terminal-33129365-line-4)">Send&#160;the&#160;public&#160;key&#160;to&#160;the&#160;people&#160;who&#160;will&#160;write&#160;to&#160;you.&#160;Keep&#160;the&#160;private&#160;key&#160;secret.</text><text class="terminal-33129365-r3" x="1122.4" y="117.6" textLength="12.2" clip-path="url(#terminal-33129365-line-4)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="142" textLength="12.2" clip-path="url(#terminal-33129365-line-5)">
+</text><text class="terminal-33129365-r1" x="0" y="166.4" textLength="24.4" clip-path="url(#terminal-33129365-line-6)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="166.4" textLength="817.4" clip-path="url(#terminal-33129365-line-6)">rsatool&#160;encrypt&#160;-m&#160;&quot;Meet&#160;me&#160;at&#160;the&#160;fountain&#160;at&#160;7&#160;pm&quot;&#160;-o&#160;message.txt</text><text class="terminal-33129365-r3" x="1122.4" y="166.4" textLength="12.2" clip-path="url(#terminal-33129365-line-6)">
+</text><text class="terminal-33129365-r3" x="0" y="190.8" textLength="988.2" clip-path="url(#terminal-33129365-line-7)">Encrypted&#160;31&#160;bytes&#160;for&#160;9212:3460:efe4:985e:7e58:004e:7f03:1a02&#160;into&#160;&quot;message.txt&quot;</text><text class="terminal-33129365-r3" x="1122.4" y="190.8" textLength="12.2" clip-path="url(#terminal-33129365-line-7)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="215.2" textLength="12.2" clip-path="url(#terminal-33129365-line-8)">
+</text><text class="terminal-33129365-r1" x="0" y="239.6" textLength="24.4" clip-path="url(#terminal-33129365-line-9)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="239.6" textLength="183" clip-path="url(#terminal-33129365-line-9)">cat&#160;message.txt</text><text class="terminal-33129365-r3" x="1122.4" y="239.6" textLength="12.2" clip-path="url(#terminal-33129365-line-9)">
+</text><text class="terminal-33129365-r4" x="0" y="264" textLength="378.2" clip-path="url(#terminal-33129365-line-10)">-----BEGIN&#160;RSATOOL&#160;MESSAGE-----</text><text class="terminal-33129365-r3" x="1122.4" y="264" textLength="12.2" clip-path="url(#terminal-33129365-line-10)">
+</text><text class="terminal-33129365-r4" x="0" y="288.4" textLength="780.8" clip-path="url(#terminal-33129365-line-11)">UlNBVAEBACcckrqxrsUURzS3e+JSg4ek5BeVT4ljBIya7gFiCAFCXry+Inh8om8G</text><text class="terminal-33129365-r3" x="1122.4" y="288.4" textLength="12.2" clip-path="url(#terminal-33129365-line-11)">
+</text><text class="terminal-33129365-r4" x="0" y="312.8" textLength="780.8" clip-path="url(#terminal-33129365-line-12)">4l0S9/rK+yXOJPcvogKg/K6wTje6Bv10AuqBjalHi7sfjDi3jGHWjcgWelh/BEgx</text><text class="terminal-33129365-r3" x="1122.4" y="312.8" textLength="12.2" clip-path="url(#terminal-33129365-line-12)">
+</text><text class="terminal-33129365-r4" x="0" y="337.2" textLength="780.8" clip-path="url(#terminal-33129365-line-13)">D8MP6nLsLG/r6D7IsSlqTohnCVW9AnPj+2JEKZ4vazzm7+aFZJaQgl/y1Iszf7y3</text><text class="terminal-33129365-r3" x="1122.4" y="337.2" textLength="12.2" clip-path="url(#terminal-33129365-line-13)">
+</text><text class="terminal-33129365-r4" x="0" y="361.6" textLength="780.8" clip-path="url(#terminal-33129365-line-14)">ygnBFCf+uSoN+tqEyUoHCSGFeJYHFUDVPSr0nECL/YNlh5JwBNxqxe9fZLZ8jhXt</text><text class="terminal-33129365-r3" x="1122.4" y="361.6" textLength="12.2" clip-path="url(#terminal-33129365-line-14)">
+</text><text class="terminal-33129365-r4" x="0" y="386" textLength="780.8" clip-path="url(#terminal-33129365-line-15)">sZ9f6R5jE2v+c5VtnHlcIoSZ08U1UCPMveexjYLK4ftSUI/zIpDKDh62zNy6HxTy</text><text class="terminal-33129365-r3" x="1122.4" y="386" textLength="12.2" clip-path="url(#terminal-33129365-line-15)">
+</text><text class="terminal-33129365-r4" x="0" y="410.4" textLength="780.8" clip-path="url(#terminal-33129365-line-16)">E/98Y6athvrOMH8VR/za3VnxHZq8/N06dxyJjgdSQ6kwrzNymGavVITNAnKlyNSB</text><text class="terminal-33129365-r3" x="1122.4" y="410.4" textLength="12.2" clip-path="url(#terminal-33129365-line-16)">
+</text><text class="terminal-33129365-r4" x="0" y="434.8" textLength="585.6" clip-path="url(#terminal-33129365-line-17)">n4ivpNHo/NW5eXVeaodBEg8Jie8Uk5YRenWaFV2GyHzd6A==</text><text class="terminal-33129365-r3" x="1122.4" y="434.8" textLength="12.2" clip-path="url(#terminal-33129365-line-17)">
+</text><text class="terminal-33129365-r4" x="0" y="459.2" textLength="353.8" clip-path="url(#terminal-33129365-line-18)">-----END&#160;RSATOOL&#160;MESSAGE-----</text><text class="terminal-33129365-r3" x="1122.4" y="459.2" textLength="12.2" clip-path="url(#terminal-33129365-line-18)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="483.6" textLength="12.2" clip-path="url(#terminal-33129365-line-19)">
+</text><text class="terminal-33129365-r1" x="0" y="508" textLength="24.4" clip-path="url(#terminal-33129365-line-20)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="508" textLength="366" clip-path="url(#terminal-33129365-line-20)">rsatool&#160;decrypt&#160;-i&#160;message.txt</text><text class="terminal-33129365-r3" x="1122.4" y="508" textLength="12.2" clip-path="url(#terminal-33129365-line-20)">
+</text><text class="terminal-33129365-r3" x="0" y="532.4" textLength="378.2" clip-path="url(#terminal-33129365-line-21)">Meet&#160;me&#160;at&#160;the&#160;fountain&#160;at&#160;7&#160;pm</text><text class="terminal-33129365-r3" x="1122.4" y="532.4" textLength="12.2" clip-path="url(#terminal-33129365-line-21)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="556.8" textLength="12.2" clip-path="url(#terminal-33129365-line-22)">
+</text><text class="terminal-33129365-r1" x="0" y="581.2" textLength="24.4" clip-path="url(#terminal-33129365-line-23)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="581.2" textLength="341.6" clip-path="url(#terminal-33129365-line-23)">rsatool&#160;sign&#160;-i&#160;contract.txt</text><text class="terminal-33129365-r3" x="1122.4" y="581.2" textLength="12.2" clip-path="url(#terminal-33129365-line-23)">
+</text><text class="terminal-33129365-r3" x="0" y="605.6" textLength="744.2" clip-path="url(#terminal-33129365-line-24)">Signed&#160;&quot;contract.txt&quot;,&#160;the&#160;signature&#160;is&#160;in&#160;&quot;contract.txt.sig&quot;</text><text class="terminal-33129365-r3" x="1122.4" y="605.6" textLength="12.2" clip-path="url(#terminal-33129365-line-24)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="630" textLength="12.2" clip-path="url(#terminal-33129365-line-25)">
+</text><text class="terminal-33129365-r1" x="0" y="654.4" textLength="24.4" clip-path="url(#terminal-33129365-line-26)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="654.4" textLength="366" clip-path="url(#terminal-33129365-line-26)">rsatool&#160;verify&#160;-i&#160;contract.txt</text><text class="terminal-33129365-r3" x="1122.4" y="654.4" textLength="12.2" clip-path="url(#terminal-33129365-line-26)">
+</text><text class="terminal-33129365-r1" x="0" y="678.8" textLength="866.2" clip-path="url(#terminal-33129365-line-27)">OK:&#160;&quot;contract.txt&quot;&#160;is&#160;signed&#160;by&#160;9212:3460:efe4:985e:7e58:004e:7f03:1a02</text><text class="terminal-33129365-r3" x="1122.4" y="678.8" textLength="12.2" clip-path="url(#terminal-33129365-line-27)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="703.2" textLength="12.2" clip-path="url(#terminal-33129365-line-28)">
+</text><text class="terminal-33129365-r1" x="0" y="727.6" textLength="24.4" clip-path="url(#terminal-33129365-line-29)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="727.6" textLength="646.6" clip-path="url(#terminal-33129365-line-29)">echo&#160;&#x27;I,&#160;Bob,&#160;owe&#160;Alice&#160;1000&#160;dollars.&#x27;&#160;&gt;&#160;contract.txt</text><text class="terminal-33129365-r3" x="1122.4" y="727.6" textLength="12.2" clip-path="url(#terminal-33129365-line-29)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="752" textLength="12.2" clip-path="url(#terminal-33129365-line-30)">
+</text><text class="terminal-33129365-r1" x="0" y="776.4" textLength="24.4" clip-path="url(#terminal-33129365-line-31)">$&#160;</text><text class="terminal-33129365-r2" x="24.4" y="776.4" textLength="366" clip-path="url(#terminal-33129365-line-31)">rsatool&#160;verify&#160;-i&#160;contract.txt</text><text class="terminal-33129365-r3" x="1122.4" y="776.4" textLength="12.2" clip-path="url(#terminal-33129365-line-31)">
+</text><text class="terminal-33129365-r5" x="0" y="800.8" textLength="719.8" clip-path="url(#terminal-33129365-line-32)">BAD:&#160;the&#160;signature&#160;doesn&#x27;t&#160;match&#160;&quot;contract.txt&quot;&#160;or&#160;this&#160;key</text><text class="terminal-33129365-r3" x="1122.4" y="800.8" textLength="12.2" clip-path="url(#terminal-33129365-line-32)">
+</text><text class="terminal-33129365-r3" x="1122.4" y="825.2" textLength="12.2" clip-path="url(#terminal-33129365-line-33)">
+</text>
+    </g>
+    </g>
+</svg>
