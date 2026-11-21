@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rsatool"
+version = "1.0.0"
+description = "RSA keys, encryption of messages and files of any length (RSA-OAEP + AES-256-GCM) and signatures"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Edward Lik" }]
+requires-python = ">=3.10"
+dependencies = ["pycryptodome>=3.15"]
+keywords = ["rsa", "encryption", "aes", "gcm", "signature", "cryptography"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Security :: Cryptography",
+    "Environment :: Console",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+rsatool = "rsatool.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/mredwardlik/rsa"
+Issues = "https://github.com/mredwardlik/rsa/issues"
+
+[tool.setuptools]
+packages = ["rsatool"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "rsatool"]
+addopts = "--doctest-modules --ignore=rsatool/__main__.py"
