@@ -1,10 +1,6 @@
-from Crypto.PublicKey import RSA
-from Crypto.Cipher import PKCS1_OAEP
+"""Interactive decryptor, see rsatool/interactive.py. Build an .exe with create.bat."""
 
-private_key = RSA.import_key(open('private_key.pem').read())
+from rsatool.interactive import decryptor, run
 
-cipher_rsa = PKCS1_OAEP.new(private_key)
-decrypted = cipher_rsa.decrypt(open('message', 'rb').read())
-
-print('Decrypted message:', decrypted.decode())
-input()
+if __name__ == '__main__':
+    run(decryptor)

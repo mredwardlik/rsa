@@ -1,13 +1,6 @@
-from Crypto.PublicKey import RSA
+"""Interactive generator, see rsatool/interactive.py. Build an .exe with create.bat."""
 
-key = RSA.generate(2048)
+from rsatool.interactive import generator, run
 
-private_key = key.export_key()
-file_out = open('private_key.pem', 'wb')
-file_out.write(private_key)
-file_out.close()
-
-public_key = key.publickey().export_key()
-file_out = open('public_key.pem', 'wb')
-file_out.write(public_key)
-file_out.close()
+if __name__ == '__main__':
+    run(generator)

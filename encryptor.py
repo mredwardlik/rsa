@@ -1,12 +1,6 @@
-from Crypto.PublicKey import RSA
-from Crypto.Cipher import PKCS1_OAEP
+"""Interactive encryptor, see rsatool/interactive.py. Build an .exe with create.bat."""
 
-public_key = RSA.import_key(open('public_key.pem').read())
-message = input('Put your message: ')
+from rsatool.interactive import encryptor, run
 
-encryptor = PKCS1_OAEP.new(public_key)
-encrypted = encryptor.encrypt(message.encode())
-
-file_out = open('message', 'wb')
-file_out.write(encrypted)
-file_out.close()
+if __name__ == '__main__':
+    run(encryptor)

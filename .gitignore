@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Keys and messages made while trying the programs
+*.pem
+*.sig
+message
+message.txt
